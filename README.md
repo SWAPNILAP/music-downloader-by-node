@@ -1,6 +1,6 @@
 Music Downloader Bot
 ====
-![Typing SVG](https://t.me/Lion_098765/?lines=welcome+to+a+music+download+bot+for+Spotify+youlube+ect+by+CHEKUTHAN!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+to+a+music+download+bot+for+Spotify+youlube+ect+by+CHEKUTHAN!)
 ## Bot
 Click on [preview](https://t.me/bestMusicDownloaderBot) to use the bot.\
 status: 🔘 offline
